@@ -12,7 +12,7 @@ class Interaction(Resource):
             abort(status.HTTP_404_NOT_FOUND, message='interaction not found')
         interaction, user = data_interaction
         return {
-            'idinteraction': interaction.id,
+            'id_interaction': interaction.id,
             'quote': interaction.quote,
             'answer': interaction.answer,
             'user': {
