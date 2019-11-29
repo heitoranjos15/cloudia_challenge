@@ -3,7 +3,7 @@ Back End challenge from Cloudia
 
 ### description
 Micro-service to FizzBuzz chatbot, when a person send a numbers to the service he will process and respond.
-*If a number is mutiple of 3, bot will responde Fizz
+Markup : *If a number is mutiple of 3, bot will responde Fizz
 *If a number is multiple of 5, bot will respond Buzz
 *If a number is mutiple of 3 and 5, bot will respond FizzBuzz
 
