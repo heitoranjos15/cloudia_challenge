@@ -12,7 +12,7 @@ class Production:
 
     def __init__(self):
         self.enviroment = 'prd'
-        self.db_host = ''
+        self.db_host = 'sqlite:///chatbot.db'
 
 class Testing:
 
